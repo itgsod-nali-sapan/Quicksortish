@@ -7,13 +7,13 @@ def quicksort(list, x, y)
 end
 def partition(list, x, y)
   pivot = list[y]
-  i = x-1
-  x.upto(y-1) { |j|
-      i = i + 1 if list[j] <= pivot
-      list[i], list[j] = list[j], list[i] if list[j] <= pivot
+  a = x-1
+  x.upto(y-1) { |b|
+      a = a + 1 if list[b] <= pivot
+      list[a], list[b] = list[b], list[a] if list[b] <= pivot
   }
-  list[i+1], list[y] = list[y], list[i+1]
-  return i + 1
+  list[a+1], list[y] = list[y], list[a+1]
+  return a + 1
 end
 
 

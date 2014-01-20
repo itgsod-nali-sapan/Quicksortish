@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb2ccc5b-a10b-42e4-acef-235bf7b80ff0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/quicksort.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quicksort.rb" afterPath="$PROJECT_DIR$/quicksort.rb" />
     </list>
     <ignored path="Quicksortish.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cb2ccc5b-a10b-42e4-acef-235bf7b80ff0" time="1390224685497" ignored="false" />
-    <file path="/quicksort.rb" changelist="cb2ccc5b-a10b-42e4-acef-235bf7b80ff0" time="1390225514787" ignored="false" />
+    <file path="/quicksort.rb" changelist="cb2ccc5b-a10b-42e4-acef-235bf7b80ff0" time="1390225910492" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
       <file leaf-file-name="quicksort.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quicksort.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="15" selection-start="487" selection-end="487" vertical-scroll-proportion="0.54330707">
+            <state line="23" column="52" selection-start="487" selection-end="487" vertical-scroll-proportion="0.54330707">
               <folding />
             </state>
           </provider>
@@ -263,7 +263,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/quicksort.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="15" selection-start="487" selection-end="487" vertical-scroll-proportion="0.54330707">
+        <state line="23" column="52" selection-start="487" selection-end="487" vertical-scroll-proportion="0.54330707">
           <folding />
         </state>
       </provider>
