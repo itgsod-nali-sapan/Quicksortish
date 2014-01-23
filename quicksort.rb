@@ -24,7 +24,6 @@ def partition(list, left, right)
   return previous_left + 1
 end
 
-
 blondin = [3, 2 ,1]
 p blondin
 quicksort(blondin, 0, blondin.length-1)
